@@ -5,23 +5,17 @@ The Weather Dashboard is a Python application that fetches weather data for spec
 
 # Project Structure
 
-weather-dashboard/
+weather-dashboard/  
+├── src/  
+│   ├── __init__.py         
+│   └── weather_dashboard.py   
+├── tests/                           
+├── data/                              
+├── .env                                  
+├── .gitignore
+├── requirements.txt                    
+└── README.md                             
 
-  src/
-  
-    __init__.py
-    
-    weather_dashboard.py
-    
-  tests/
-  
-  data/
-  
-  .env
-  
-  .gitignore
-  
-  requirements.txt
 
 **Prerequisites**
 
