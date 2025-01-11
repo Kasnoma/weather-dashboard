@@ -6,9 +6,12 @@ The Weather Dashboard is a Python application that fetches weather data for spec
 # Project Structure
 
 weather-dashboard/
+
   src/
+  
     __init__.py
     weather_dashboard.py
+    
   tests/
   data/
   .env
@@ -22,7 +25,9 @@ Before running this project, ensure you have the following:
 1. Python
 Version 3.7 or higher is required.
 Confirm you have python and pip installed already by running this command:
+
 `python3 --version`
+
 `pip --version`
 
 If you don't, follow the installation guide on [python official page](https://www.python.org/downloads/) 
