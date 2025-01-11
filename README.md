@@ -6,6 +6,16 @@ The Weather Dashboard is a Python application that fetches weather data for spec
 # Project Structure
 
 weather-dashboard/
+  src/
+    __init__.py
+    weather_dashboard.py
+  tests/
+  data/
+  .env
+  .gitignore
+  requirements.txt
+  
+weather-dashboard/
 
   src/
     init.py
@@ -58,7 +68,7 @@ AWS_BUCKET_NAME=your_bucket_name
 
 **Run the weather application**
 
-python3 src/weather_dashboard.py
+`python3 src/weather_dashboard.py`
 
 
 *******
