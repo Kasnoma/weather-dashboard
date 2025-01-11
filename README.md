@@ -58,9 +58,16 @@ python3 src/weather_dashboard.py
 Sample of Expected Result:
 
 Fetching weather for Abuja...
+
 Temperature: 93.74°F
+
 Feels like: 89.13°F
+
 Humidity: 11%
+
 Conditions: broken clouds
+
 Successfully saved data for Abuja to S3.
+
 Weather data for Abuja saved to S3!
+
