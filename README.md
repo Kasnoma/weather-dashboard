@@ -6,7 +6,7 @@ The Weather Dashboard is a Python application that fetches weather data for spec
 ![image](https://github.com/user-attachments/assets/6775b7d2-f6e0-47f3-bf4f-f17d65458b1c)
 
 # Project Structure
-
+```
 weather-dashboard/  
 ├── src/  
 │   ├── __init__.py                       
@@ -17,7 +17,7 @@ weather-dashboard/
 ├── .gitignore                           
 ├── requirements.txt                    
 └── README.md                           
-
+```
 
 **Prerequisites**
 
